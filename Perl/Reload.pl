@@ -60,5 +60,5 @@ elsif($command =~ m/\[confirm\]/)
 	print("$command\n");
 }
 
-# closes the ssh connection
+#Close the connection
 $ssh->close();
