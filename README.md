@@ -1,2 +1,2 @@
 # Network_Scripting
-Perl and Python Expect scripting examples demonstrating how to configure network devices.
+Perl, Python, and Tcl Expect scripting examples demonstrating how to control network devices.
