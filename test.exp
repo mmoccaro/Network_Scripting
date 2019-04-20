@@ -1,2 +1,0 @@
-#!/usr/bin/expect -f
-puts "Test Script"
