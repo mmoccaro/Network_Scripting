@@ -13,7 +13,7 @@ use Net::SSH::Expect;
 
 #Create an SSH session
 my $ssh = Net::SSH::Expect->new (
-    host => "10.0.0.17", 
+    host => "X.X.X.X", 
     user => 'user',
     password=> 'user_password',  
     raw_pty => 1,
